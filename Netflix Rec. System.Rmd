@@ -1,0 +1,17 @@
+The reccomender system that I chose to analyze for this assignment is Netflix. Netflix is an American subscription streaming service and production company. It has 3,600+ movies and more than 1,800 TV shows available to subscribers. 
+
+Scenario Design Analysis
+1. Who are your target users?
+Netflix's target users is anyone looking to watch a movie or TV show at home from their very own computer or TV. 
+
+2. What are their key goals?
+The users' goals are to watch a movie or TV show from home, without the hastle of going to a theatre or buying/renting a DVD. It is quick and easy, and once a user subscribes and pays a monthly/yearly fee they can watch anything they want for 'free'. It is a way to instantly watch any movie or show of their choice. 
+
+3. How can you help them aaccomplish those goals?
+Netflix can help them accomplish these goals by making lots of movies and TV shows accessable. They can make sure that it is easy to manage the website and easy for users to find what they are looking for. Most importantly, they use a recommendation system. They figure out what genres each user is interested in and gives them new movies and TV shows based on these reccomendations. Users are also sometimes asked to rate how they liked what they just watched, which helps Netflix in their reccomendation process. After all this, the user has an easy time searching through Netflix and picking what they like, because it is right in front of them. 
+
+Netflix is extremely advanced. They have 76,897 micro-genres just to perfectly recommend to users exactly what they will like. They really narrowed it down to just about everything. I think something cool Netflix can do is use other methods in addition to genre to figure out what users like. For example, sometimes I watch a movie or show with a specific actor and I get in the mood to watch something else with that actor. Netflix can have that option too. They can recommend movies or shows based on actors you like too. Another thing that is a downside about Netflix is that 
+users can look through the website for a long time, but still end up not finding the right movie. I dont know how this can be fixed or if it is even a problem with Netflix itself rather than the users, but it definitely is a problem users (including myself) face. 
+
+
+https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48
